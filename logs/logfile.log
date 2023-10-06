@@ -206,3 +206,12 @@
 19:07:21.971 [main] INFO  Resources.BaseClass - **** verifyLogin ***
 19:07:22.509 [main] INFO  Resources.BaseClass - ***** Login Button Clicked *******
 19:07:22.509 [main] INFO  Resources.BaseClass - ******** End of Logger *******
+18:29:50.631 [main] INFO  Resources.BaseClass - **** verifyLogin ***
+18:29:51.143 [main] INFO  Resources.BaseClass - ***** Login Button Clicked *******
+18:29:51.143 [main] INFO  Resources.BaseClass - ******** End of Logger *******
+18:29:55.012 [main] INFO  Resources.BaseClass - **** verifyLogin ***
+18:29:55.273 [main] INFO  Resources.BaseClass - ***** Login Button Clicked *******
+18:29:55.274 [main] INFO  Resources.BaseClass - ******** End of Logger *******
+18:29:59.464 [main] INFO  Resources.BaseClass - **** verifyLogin ***
+18:30:00.100 [main] INFO  Resources.BaseClass - ***** Login Button Clicked *******
+18:30:00.100 [main] INFO  Resources.BaseClass - ******** End of Logger *******
