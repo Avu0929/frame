@@ -13,6 +13,8 @@ public class LoginPageObject {
     private By loginbutton=By.xpath("//input[@name='Login']");
     private By tryForFree= By.xpath("//a[@id='signup_link']");
 	private By errorMessage= By.xpath("//div[@id='error']");
+	
+	//Avinash made change here
     
     public LoginPageObject(WebDriver driver) {
 		
