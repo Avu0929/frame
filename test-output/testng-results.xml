@@ -2,16 +2,16 @@
 <testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2023-10-07T09:13:50 IST" name="Default suite" finished-at="2023-10-07T09:14:04 IST" duration-ms="13483">
+  <suite started-at="2023-10-09T13:43:01 IST" name="Suite" finished-at="2023-10-09T13:43:17 IST" duration-ms="16575">
     <groups>
     </groups>
-    <test started-at="2023-10-07T09:13:50 IST" name="Default test" finished-at="2023-10-07T09:14:04 IST" duration-ms="13483">
+    <test started-at="2023-10-09T13:43:01 IST" name="Test" finished-at="2023-10-09T13:43:17 IST" duration-ms="16575">
       <class name="TestCases.VerifyLogin">
-        <test-method is-config="true" signature="URLInvoke()[pri:0, instance:TestCases.VerifyLogin@55b7a4e0]" started-at="2023-10-07T09:13:51 IST" name="URLInvoke" finished-at="2023-10-07T09:13:56 IST" duration-ms="4589" status="PASS">
+        <test-method is-config="true" signature="URLInvoke()[pri:0, instance:TestCases.VerifyLogin@55b7a4e0]" started-at="2023-10-09T13:43:02 IST" name="URLInvoke" finished-at="2023-10-09T13:43:09 IST" duration-ms="6442" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- URLInvoke -->
-        <test-method signature="InvalidLogin(java.lang.String,java.lang.String)[pri:0, instance:TestCases.VerifyLogin@55b7a4e0]" started-at="2023-10-07T09:13:56 IST" name="InvalidLogin" data-provider="LoginData" finished-at="2023-10-07T09:13:57 IST" duration-ms="646" status="PASS">
+        <test-method signature="InvalidLogin(java.lang.String,java.lang.String)[pri:0, instance:TestCases.VerifyLogin@55b7a4e0]" started-at="2023-10-09T13:43:09 IST" name="InvalidLogin" data-provider="LoginData" finished-at="2023-10-09T13:43:09 IST" duration-ms="393" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -27,15 +27,15 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- InvalidLogin -->
-        <test-method is-config="true" signature="CloseBrowser()[pri:0, instance:TestCases.VerifyLogin@55b7a4e0]" started-at="2023-10-07T09:13:57 IST" name="CloseBrowser" finished-at="2023-10-07T09:13:57 IST" duration-ms="221" status="PASS">
+        <test-method is-config="true" signature="CloseBrowser()[pri:0, instance:TestCases.VerifyLogin@55b7a4e0]" started-at="2023-10-09T13:43:09 IST" name="CloseBrowser" finished-at="2023-10-09T13:43:10 IST" duration-ms="259" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- CloseBrowser -->
-        <test-method is-config="true" signature="URLInvoke()[pri:0, instance:TestCases.VerifyLogin@55b7a4e0]" started-at="2023-10-07T09:13:57 IST" name="URLInvoke" finished-at="2023-10-07T09:13:59 IST" duration-ms="2473" status="PASS">
+        <test-method is-config="true" signature="URLInvoke()[pri:0, instance:TestCases.VerifyLogin@55b7a4e0]" started-at="2023-10-09T13:43:10 IST" name="URLInvoke" finished-at="2023-10-09T13:43:13 IST" duration-ms="3264" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- URLInvoke -->
-        <test-method signature="InvalidLogin(java.lang.String,java.lang.String)[pri:0, instance:TestCases.VerifyLogin@55b7a4e0]" started-at="2023-10-07T09:13:59 IST" name="InvalidLogin" data-provider="LoginData" finished-at="2023-10-07T09:14:00 IST" duration-ms="531" status="PASS">
+        <test-method signature="InvalidLogin(java.lang.String,java.lang.String)[pri:0, instance:TestCases.VerifyLogin@55b7a4e0]" started-at="2023-10-09T13:43:13 IST" name="InvalidLogin" data-provider="LoginData" finished-at="2023-10-09T13:43:13 IST" duration-ms="542" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -51,15 +51,15 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- InvalidLogin -->
-        <test-method is-config="true" signature="CloseBrowser()[pri:0, instance:TestCases.VerifyLogin@55b7a4e0]" started-at="2023-10-07T09:14:00 IST" name="CloseBrowser" finished-at="2023-10-07T09:14:00 IST" duration-ms="253" status="PASS">
+        <test-method is-config="true" signature="CloseBrowser()[pri:0, instance:TestCases.VerifyLogin@55b7a4e0]" started-at="2023-10-09T13:43:13 IST" name="CloseBrowser" finished-at="2023-10-09T13:43:14 IST" duration-ms="332" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- CloseBrowser -->
-        <test-method is-config="true" signature="URLInvoke()[pri:0, instance:TestCases.VerifyLogin@55b7a4e0]" started-at="2023-10-07T09:14:00 IST" name="URLInvoke" finished-at="2023-10-07T09:14:03 IST" duration-ms="2588" status="PASS">
+        <test-method is-config="true" signature="URLInvoke()[pri:0, instance:TestCases.VerifyLogin@55b7a4e0]" started-at="2023-10-09T13:43:14 IST" name="URLInvoke" finished-at="2023-10-09T13:43:17 IST" duration-ms="3045" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- URLInvoke -->
-        <test-method signature="InvalidLogin(java.lang.String,java.lang.String)[pri:0, instance:TestCases.VerifyLogin@55b7a4e0]" started-at="2023-10-07T09:14:03 IST" name="InvalidLogin" data-provider="LoginData" finished-at="2023-10-07T09:14:03 IST" duration-ms="485" status="PASS">
+        <test-method signature="InvalidLogin(java.lang.String,java.lang.String)[pri:0, instance:TestCases.VerifyLogin@55b7a4e0]" started-at="2023-10-09T13:43:17 IST" name="InvalidLogin" data-provider="LoginData" finished-at="2023-10-09T13:43:17 IST" duration-ms="537" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -75,11 +75,11 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- InvalidLogin -->
-        <test-method is-config="true" signature="CloseBrowser()[pri:0, instance:TestCases.VerifyLogin@55b7a4e0]" started-at="2023-10-07T09:14:03 IST" name="CloseBrowser" finished-at="2023-10-07T09:14:04 IST" duration-ms="246" status="PASS">
+        <test-method is-config="true" signature="CloseBrowser()[pri:0, instance:TestCases.VerifyLogin@55b7a4e0]" started-at="2023-10-09T13:43:17 IST" name="CloseBrowser" finished-at="2023-10-09T13:43:17 IST" duration-ms="198" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- CloseBrowser -->
       </class> <!-- TestCases.VerifyLogin -->
-    </test> <!-- Default test -->
-  </suite> <!-- Default suite -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
 </testng-results>
